@@ -1,7 +1,7 @@
 # OSlabs
 #### Daria Olefirenko BBSO-03-18
-11 | 11
--— | —-
+Номер Лабораторной | Название рабы
+--- | ---
 1 | suzen
 2 | RAID
 3 | git

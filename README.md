@@ -1,6 +1,6 @@
 # OSlabs
 #### Daria Olefirenko BBSO-03-18
-Номер лабораторной | Название работы
+11 | 11
 -— | —-
 1 | suzen
 2 | RAID
